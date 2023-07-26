@@ -27,6 +27,7 @@
 
 TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y) -->
 
+<center class="half">
 <img src="./images/Slice_1.png" alt="screen" width="250"/>
 <img src="./images/Slice_2.png" alt="screen" width="250"/>
 <img src="./images/Slice_3.png" alt="screen" width="250"/>
@@ -37,4 +38,5 @@ TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y) --
 <img src="./images/Slice_8.png" alt="screen" width="250"/>
 <img src="./images/Slice_9.png" alt="screen" width="250"/>
 <img src="./images/Slice_10.png" alt="screen" width="250"/>
+</center>
 
