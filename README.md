@@ -27,15 +27,14 @@
 
 TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y) -->
 
-
-![image](./images/Slice_1.png)
-![image](./images/Slice_2.png)
-![image](./images/Slice_3.png)
-![image](./images/Slice_4.png)
-![image](./images/Slice_5.png)
-![image](./images/Slice_6.png)
-![image](./images/Slice_7.png)
-![image](./images/Slice_8.png)
-![image](./images/Slice_9.png)
-![image](./images/Slice_10.png)
+![image](./images/Slice_1.png =250x)
+![image](./images/Slice_2.png =250x)
+![image](./images/Slice_3.png =250x)
+![image](./images/Slice_4.png =250x)
+![image](./images/Slice_5.png =250x)
+![image](./images/Slice_6.png =250x)
+![image](./images/Slice_7.png =250x)
+![image](./images/Slice_8.png =250x)
+![image](./images/Slice_9.png =250x)
+![image](./images/Slice_10.png =250x)
 
