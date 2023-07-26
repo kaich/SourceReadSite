@@ -27,14 +27,14 @@
 
 TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y) -->
 
-![image](./images/Slice_1.png =250x)
-![image](./images/Slice_2.png =250x)
-![image](./images/Slice_3.png =250x)
-![image](./images/Slice_4.png =250x)
-![image](./images/Slice_5.png =250x)
-![image](./images/Slice_6.png =250x)
-![image](./images/Slice_7.png =250x)
-![image](./images/Slice_8.png =250x)
-![image](./images/Slice_9.png =250x)
-![image](./images/Slice_10.png =250x)
+<img src="./images/Slice_1.png" alt="screen" width="250"/>
+<img src="./images/Slice_2.png" alt="screen" width="250"/>
+<img src="./images/Slice_3.png" alt="screen" width="250"/>
+<img src="./images/Slice_4.png" alt="screen" width="250"/>
+<img src="./images/Slice_5.png" alt="screen" width="250"/>
+<img src="./images/Slice_6.png" alt="screen" width="250"/>
+<img src="./images/Slice_7.png" alt="screen" width="250"/>
+<img src="./images/Slice_8.png" alt="screen" width="250"/>
+<img src="./images/Slice_9.png" alt="screen" width="250"/>
+<img src="./images/Slice_10.png" alt="screen" width="250"/>
 
