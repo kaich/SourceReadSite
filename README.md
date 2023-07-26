@@ -21,9 +21,11 @@
 
 ### iOS版本
 
-Appstore正式版： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704)
+正在提交审核中，敬请期待。
 
-TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y)
+<!-- Appstore正式版： [AppStore](https://apps.apple.com/cn/app/%E6%BA%90%E9%98%85%E8%AF%BB/id1561787704)
+
+TF测试版： [testflight版本](https://testflight.apple.com/join/2Svrtr9y) -->
 
 
 ![image](./images/Slice_1.png)
