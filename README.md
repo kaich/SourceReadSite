@@ -1,7 +1,7 @@
 # 源阅
 
 <div>
-  <img width="80" height="80" align="left" src="./images/Icon.png" alt="Yuedu"/>
+  <img width="60" height="60" align="left" src="./images/Icon.png" alt="Yuedu" style="border-radius: 20px"/>
   <h1>源阅</h1>
   <br>
   <p>『源阅』 - 一款本地阅读器工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</p>
